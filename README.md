@@ -11,6 +11,18 @@ The K-means algorithm is an iterative method that partitions the data into K clu
 3. Update the centroids by calculating the mean of all data points assigned to each centroid.
 4. Repeat steps 2 and 3 until the centroids do not change significantly or a maximum number of iterations is reached.
 
+## Getting Started
+**Install Dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+**Run the Jupyter Notebook**
+
+```bash
+jupyter notebook color-compression.ipynb
+```
+
 ### How to Use
 1. Provide the path to the image you want to compress.
 2. Specify the number of colors (K) you want in the compressed image.
