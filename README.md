@@ -20,7 +20,7 @@ pip install -r requirements.txt
 **Run the Jupyter Notebook**
 
 ```bash
-jupyter notebook color-compression.ipynb
+jupyter notebook Color Compression.ipynb
 ```
 
 ### How to Use
